@@ -8,9 +8,9 @@ This is a exercise of *Github*
 * list2
 
 Code block:
-	function(){
-		console.log('');
-	}
+    function(){
+    	console.log('');
+    }
 	
 -----------
 
