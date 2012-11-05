@@ -6,6 +6,7 @@ This is a exercise of *Github*
 
 * list1
 * list2
+* list3
 
 Code block:
     function(){
